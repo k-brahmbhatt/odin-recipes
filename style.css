@@ -1,0 +1,11 @@
+/* ************************* */
+/* ***** HEADER SECTION **** */
+/* ************************* */
+
+.header {
+  display: flex;
+  gap: 3.2rem;
+  height: 8rem;
+  align-items: center;
+  margin: 0 3.2rem;
+}
