@@ -5,7 +5,19 @@
 .header {
   display: flex;
   gap: 3.2rem;
-  height: 8rem;
   align-items: center;
-  margin: 0 3.2rem;
+  justify-content: center;
+  margin: 4.8rem 3.2rem;
+}
+
+/* ************************* */
+/* ***** Main SECTION **** */
+/* ************************* */
+
+.recipes-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
 }
